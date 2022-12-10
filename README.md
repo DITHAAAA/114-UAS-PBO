@@ -1,5 +1,5 @@
 APLIKASI BOOKSKOP
-Fachri - Abdullah - Matahari
+Ditha - Tul - Nugraha
 
 Applikasi Booking Bioskop Berbasis Desktop dengan Java
 •	Aplikasi ini untuk mempermudah pengguna untuk memesan tiket tanpa harus antri di bioskop / kehabisan tiket, aplikasi ini memiliki beberapa fitur yaitu :
